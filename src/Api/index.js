@@ -1,6 +1,5 @@
 export const fetchJokeApi = () => {
-  console.log('Api Call');
-
+  
   const config = {
     headers: {
       Accept: 'application/json',
